@@ -62,46 +62,4 @@ sudo service apache2 reload # recarrega o Apache
 
 ### Dados
 
-Conforme solicitação, os seguintes dados popularam as tabelas ao ter executado as migrations:
-
-PEDIDOS
-
-ID|Numero
-
-1|0001
-
-2|0002
-
-3|0003
-
-4|0004
-
-5|0005
-
-6|0006
-
-7|0007
-
-8|0008
-
-9|0009
-
-10|0010
-
-
-CLIENTES
-
-ID|Nome|Email
-
-1|Cliente 1|cliente1@XXX.com.br
-
-2|Cliente 2|cliente2@XXX.com.br
-
-...
-
-
-CHAMADOS
-
-ID|ID do Chamado|ID do Cliente|Data/Hora|Título|Observação
-
-Vide relatório do sistema
+Conforme solicitação, os dados popularam as tabelas ao ter executado as migrations.
