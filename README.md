@@ -23,7 +23,7 @@ se encontram no arquivo `/etc/apache2/httpd.conf`.
     ServerName longevo.dev
     DocumentRoot /var/www/longevo/web
 
-    <Directory /home/juliano/www/longevo/web>
+    <Directory /var/www/longevo/web>
             Options Indexes FollowSymLinks MultiViews
             AllowOverride All
             Order allow,deny
